@@ -32,7 +32,7 @@ Para dar clareza ao meu perfil, divido minhas competências entre as ferramentas
 
 ###  Entre em contato comigo:
 
-*  **Portfólio:** [leonardocantu.dev](https://portifolio.leonardo-cantu-dev.workers.dev/)
+*  **Portfólio:** [leonardocantu.dev](https://leonardocantu.dev)
 *  **LinkedIn:** [linkedin.com/in/leonardo-cantu](https://linkedin.com/in/leonardo-cantu)
 *  **E-mail:** [leonardo.cantu.dev@gmail.com](mailto:leonardo.cantu.dev@gmail.com)
 
